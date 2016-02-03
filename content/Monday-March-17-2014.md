@@ -1,0 +1,82 @@
+---
+layout: default
+title: Monday, March 17, 2014 
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, March 17, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-24" class="node node-book node-full clearfix" about="/content/monday-march-17-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, March 17, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-06-28T22:34:08-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Sat, 06/28/2014 - 22:34</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Meeting Attendees:</em></p>
+                                        <ul>
+                                            Dean Williams, LLNL<br>
+                                            Eli Dart, ESnet<br>
+                                            Mary Hester, ESnet<br>
+                                            Sylvia Kuijpers, SURFnet<br>
+                                            David Salmon, JANET
+                                        </ul>
+                                        <p><em>Agenda:</em><br>
+                                            * CEDA perfSONAR<br>
+                                            - current tests<br>
+                                            - IP addresses of new hosts<br>
+                                            - JANET perfSONAR hosts?<br>
+                                            - Correct Eli's network map
+                                        </p>
+                                        <p>* DKRZ perfSONAR<br>
+                                            - current tests<br>
+                                            - working with DFN<br>
+                                            - Correct Eli's network map some more (I want to get it right)
+                                        </p>
+                                        <p>* ANU/NCI perfSONAR<br>
+                                            - IP addresses of new perfSONAR hosts<br>
+                                            - AARNet perfSONAR host addresses?<br>
+                                            - Network map info (I'll start with traceroute, but I expect to be wrong in some details)
+                                        </p>
+                                        <p>* KNMI<br>
+                                            - KNMI perfSONAR host status<br>
+                                            - SURFnet perfSONAR host status<br>
+                                            - KNMI 10G circuit status<br>
+                                            - Network map info (I'll start with traceroute, but I expect to be wrong in some details)
+                                        </p>
+                                        <p><em>Notes:</em><br>
+                                            KNMI is planning to deploy a perfSONAR host late this year.
+                                        </p>
+                                        <p>JANET is looking at deploying a perfSONAR host - no final decision yet.</p>
+                                        <p>We need to make sure that if we find things that require operational attention, these issues are taken to the proper operational engineering resources.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-march-31-2014" class="page-previous" title="Go to previous page">‹ Monday, March 31, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-march-3-2014" class="page-next" title="Go to next page">Monday, March 3, 2014  ›</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-wrapper">
+                            <ul class="links inline">
+                                <li class="comment_forbidden first last"><span><a href="/user/login?destination=node/24%23comment-form">Log in</a> to post comments</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,65 @@
+---
+layout: default
+title: Monday, January 20, 2014 
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, January 20, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-15" class="node node-book node-full clearfix" about="/content/monday-january-20-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, January 20, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-03-17T17:09:14-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">mccoy20</span> on Mon, 03/17/2014 - 17:09</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p>Meeting attendees: Mary, Matt, Ben, Silvia, David, Eli, Dean</p>
+                                        <p>•  The Mailing list seems to be complete. We have 35 participants on the mailing list<br>
+                                            • Report out concisely on our progress information every 3 months, this short report will be included on the website. Dean will include the ICNWG project in the ESGF &amp; UV-CDAT report.<br>
+                                            • We will start to record all ICNWG telcos for others to review later. If there are some that do not want the recording of the telcos to take place, please let me know.<br>
+                                            • Dean will have his team put together a private website for those only on the mailing list. Wiki capability will be available for everyone to add to the site.<br>
+                                            • Eli sent out the PerfSONAR documentation on Jan 11th. If you did not see it come across the mailing list, please send an e-mail message to Eli to obtain a copy. The documentation will be placed on the website once it is up and running.<br>
+                                            • Netherlands – made contact with KNMI, Wilco has not respond to requests – Dean is to contact Wilco and ask him to participate on these icnwg telcos'. I need to send him the timeline of this project. The time line will also be included on the website.<br>
+                                            Wilco email: Sorry to have missed the telcons. On Mondays I work at Wageningen University. Also, I think our networkspecialist Jeroen van der Reijden could better join the telcons than myself because I don't know the technical details on networks at the level that you discuss here. Also, Jeroen has contact with SurfNet.
+                                        </p>
+                                        <p>There is an issue on the the project costs. Does the project include support?</p>
+                                        <p>•  Australia – what level of perfSONAR are we trying to put out there? There are there levels. We want level 1 and level 2. Level 3 requires hardware. Level 1 install is the base level version – this would be good to just do this.) (Do the things that you can easily do quickly.) (Eli is recommending a least a Level 1 installation.) Eli will be working with Ben's team soon. Will be installing level 1 and 2. Possibly level 3 later. Personnar IPV6 or IPV4 which one are we testing in. We will leave IPV6 out for now and only go with IPV4. Eli to coordinate the routing tables. (Australia wants to connect to the EU via the U.S. That is go through the continental U.S.A. Eli will help with this.)<br>
+                                            • U.S. – discussion on the details on setting up perSONAR at LLNL will occur in the next couple of weeks at LLNL. Robin reported that perfSONAR is already up and running at LLNL. The level of details of perfSONAR is not known at this point. Again, there will be a meeting at LLNL to discuss the progress and to determine if we need to set things up differently on the DMZ network. There are a large number of perfSONAR up and running throughout ESnet. Eli make a list of all the perfSONAR machines and include them on our website. Other perfSONAR platforms will be include as they come online.<br>
+                                            • U.K. – Matt – not a lot to report back yet. Formulating the team to install perfSONAR. Due to be put into place by the end of March. Hopefully they will have a perfSONAR setup before this time. There are perfSONAR boxes up and running at RAL, but may not be suitable due the network path taken.<br>
+                                            • DKRZ – there is a perfSONAR box up and running and we are using it now for testing
+                                        </p>
+                                        <p>________________________________________________________</p>
+                                        <p>Hi Dean,</p>
+                                        <p>Thanks for those notes. They look good to me.</p>
+                                        <p>Just clarifying that "recording" the meetings will mean audio recordings. The purpose for the recordings is to help nodes stay up to date on the discussion. Just note that these telco's are at 3am in Australia and so hard for the relevant people to make the call. Other sites will have different issues - clashing meetings times. The recordings will be "private" to the people on the mail list rather than public.</p>
+                                        <p>"There are there levels" (there-&gt;three). Eli noted that they use CF-Engine to configure their nodes to the level 3 spec, and hope its possible to provide a similar recipe (should be on the web site) to configure a node to the level 3 spec. We won't be using CF-Engine but instead would like to script - hopefully using puppet.</p>
+                                        <p>We should come back to IPv6 since we will eventually have to tackle this problem and we should make it part of conscious discussion for the sites. If we are talking about networking for the CMIP6 timeframe then this is the group to help sort out how to configure things for the future.</p>
+                                        <p>Best,<br>
+                                            Ben
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-february-3-2014" class="page-previous" title="Go to previous page">‹ Monday, February 3, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-january-6-2014" class="page-next" title="Go to next page">Monday, January 6, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

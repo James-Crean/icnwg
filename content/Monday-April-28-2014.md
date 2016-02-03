@@ -1,0 +1,85 @@
+---
+layout: default
+title: Monday, April 28, 2014 
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, April 28, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-27" class="node node-book node-full clearfix" about="/content/monday-april-28-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, April 28, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-06-28T23:02:23-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Sat, 06/28/2014 - 23:02</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Meeting Attendees:</em></p>
+                                        <p>​Michael Lautenschlager - DKRZ<br>
+                                            Matt Pritchard, CEDA/STFC<br>
+                                            Cristina, CEDA/STFC<br>
+                                            Sylvia Kuijpers, SURFnet<br>
+                                            Eli Dart, ESnet<br>
+                                            Dean Williams, LLNL<br>
+                                            Mary Hester, ESnet​
+                                        </p>
+                                        <p><em>Site reports:</em></p>
+                                        <p>LLNL<br>
+                                            * still need perfSONAR rebuild to be completed<br>
+                                            * Dean to send request for status
+                                        </p>
+                                        <p>DKRZ<br>
+                                            * Mary sent a map last week - lots of stuff there.<br>
+                                            * There appears to be packet loss in the US --&gt; DKRZ direction<br>
+                                            * Michael indicated that there was a performance troubleshooting effort between DKRZ and Zurich.  The DFN router in Frankfurt was a part of the exercise with Zurich.  Eli to follow up with Gerald.
+                                        </p>
+                                        <p>CEDA/STFC<br>
+                                            * Both perfSONAR hosts are installed.<br>
+                                            * VM host needs packet filter updates - request has been submitted - waiting to hear back
+                                        </p>
+                                        <p>KNMI<br>
+                                            * new test host at Netherlight - perfSONAR is being installed<br>
+                                            * TERENA is taking some staff cycles<br>
+                                            * Sylvia to send IP address when it is assigned
+                                        </p>
+                                        <p>ANU/NCI<br>
+                                            * Routing to/from Europe has been moved to Internet2<br>
+                                            * Waiting on packet filters for perfSONAR host
+                                        </p>
+                                        <p>​Data replication from DKRZ to LLNL<br>
+                                            * Stefan Kindermann is the contact at DKRZ<br>
+                                            * Jeff Painter is the contact at LLNL<br>
+                                            * Gerald will be the networking contact, also keep Michael on cc<br>
+                                            * Keep Jeff Long on cc at LLNL<br>
+                                            * Dean to sent mail to start conversation
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-may-26-2014" class="page-previous" title="Go to previous page">‹ Monday, May 26, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-march-31-2014" class="page-next" title="Go to next page">Monday, March 31, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-wrapper">
+                            <ul class="links inline">
+                                <li class="comment_forbidden first last"><span><a href="/user/login?destination=node/27%23comment-form">Log in</a> to post comments</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

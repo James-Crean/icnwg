@@ -1,0 +1,70 @@
+---
+layout: default
+title: Monday, March 3, 2014 
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, March 3, 2014         
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-23" class="node node-book node-full clearfix" about="/content/monday-march-3-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, March 3, 2014 " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-06-28T22:30:59-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Sat, 06/28/2014 - 22:30</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Meeting Attendees:</em></p>
+                                        <ul>
+                                            Frank and Stefan - DKRZ<br>
+                                            Ben Evans - ANU/NCI<br>
+                                            Eli Dart - ESnet<br>
+                                            Mary Hester - ESnet<br>
+                                            Matt Pritchard - RAL/CEDA<br>
+                                            Alan Williams - ANU/NCI
+                                        </ul>
+                                        <p><em>PerfSONAR round table:</em></p>
+                                        <p>DKRZ</p>
+                                        <ul>Eli to contact Gerald and work with him regarding 10G to 1G</ul>
+                                        <p>ANU</p>
+                                        <ul>No update this week - last week was other topics</ul>
+                                        <p>PCMDI</p>
+                                        <ul>perfSONAR node is not looking good</ul>
+                                        <p>BADC</p>
+                                        <ul>Working on two nodes - VM in one place, and a physical machine in a new DMZ<br>
+                                            Site firewall migration happening on March 10th, changes are hard at the moment<br>
+                                            Eli to try to get info on ports out to the group
+                                        </ul>
+                                        <p>KNMI</p>
+                                        <ul>Not present</ul>
+                                        <p>perfSONAR dashboard link:<br><a href="http://ps-dashboard.es.net/index.cgi?dashboard=7%3A%20ESnet%20to%20Climate%20Sites">http://ps-dashboard.es.net/index.cgi?dashboard=7%3A%20ESnet%20to%20Clima...</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-march-17-2014" class="page-previous" title="Go to previous page">‹ Monday, March 17, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-february-3-2014" class="page-next" title="Go to next page">Monday, February 3, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-wrapper">
+                            <ul class="links inline">
+                                <li class="comment_forbidden first last"><span><a href="/user/login?destination=node/23%23comment-form">Log in</a> to post comments</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

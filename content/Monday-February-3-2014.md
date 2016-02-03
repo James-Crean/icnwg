@@ -1,0 +1,76 @@
+---
+layout: default
+title: Monday, February 3, 2014
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, February 3, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-17" class="node node-book node-full clearfix" about="/content/monday-february-3-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, February 3, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-03-17T17:12:36-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">mccoy20</span> on Mon, 03/17/2014 - 17:12</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Meeting attendees:</em><br>
+                                            Eli Dart, ESnet;<br>
+                                            Michael, DKRZ;<br>
+                                            Mary Hester, ESnet;<br>
+                                            Ben Evans, ANU/NCI;<br>
+                                            Frank, DKRZ;<br>
+                                            Matt Pritchard, BADC;<br>
+                                            Cristina del Cano Novales, BADC;<br>
+                                            Dean Williams, LLNL
+                                        </p>
+                                        <p><em>Meeting discussion:</em><br>
+                                            • KNMI e-mail from Wilco:<br>
+                                            o They will be setting up a 10G connection from SURFnet in April.<br>
+                                            o  Michael confirmed from DKRZ, preparations for the CORDEX data transfer are underway.<br>
+                                            o Is it impossible for the Amsterdam folks to attend this call at this meeting time. Is it possible to hold the meeting at another time?<br>
+                                            o Wilco’s e-mail bullet points to the team:<br>
+                                            • We had a telco with SURF discussing our possible contributions to EYR. Here is a summary of the discussion:<br>
+                                            • KNMI will not have a ESGF node installed soon, but we will have one at the end of this year. Earlier is not possible due to resourcing. Since CMIP6 simulations will not start this year, there is no immediate need for us now.<br>
+                                            • KNMI will have a 10 GB connection to SURF in April 2014.<br>
+                                            • In order to contribute to the project we would like to test upload of CORDEX data to DKRZ. We can do that currently using the 1 GB connection and from April onward with the 10 GB connection. We can check the performance of the uploads.<br>
+                                            • Will this contribute to the EYR goals?<br>
+                                            • We also have a question. Can we organize a telco at another time (for us in the evening, say 21:00 or 22:00 Amsterdam time)? This will make it possible for us to join a call. Currently the telco's are at a time where we all have to rush to the childcare to pick-up our kids...
+                                        </p>
+                                        <p>•  PerfSONAR installation discussion:<br>
+                                            o Sent information out to the list. Some of the information on FASTERDATA about perfSONAR is a little out of date. Eli will correct and post to new information on the main ICNWG website.<br>
+                                            o Ben and his team will install the VMs necessary for perfSONAR this week. Eli is going to confirm the network routes from NCI are to go via the US - particularly the routes that would otherwise go out NCIs (Australia’s) west coast link to Europe.<br>
+                                            o Matt and Christina are working on installing VMs at BADC and will configure perfSONAR accordingly. Will add an additional perfSONAR later. The first one will be up by the end of next week. They have a VM up now (in the old infrastructure), and there is a host due to be installed in the new environment.<br>
+                                            o Eli suggests for those bring up VMs: bring up one host for throughput testing and another for delay and loss testing. (Measures packet loss.)<br>
+                                            o Eli will be meeting with LLNL to discuss the configuration of perfSONAR.<br>
+                                            o See the perfSONAR dashboard and other important links from our icnwg.llnl.gov website.
+                                        </p>
+                                        <p>•  Our website discussion (everyone should have been invited to)<br>
+                                            o We have accounts set up for 15 people - that's half the people on the mailing list. Several more account requests during the call - good.<br>
+                                            o Please comment/criticize/suggest improvements in content or layout.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-march-3-2014" class="page-previous" title="Go to previous page">‹ Monday, March 3, 2014 </a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-january-20-2014" class="page-next" title="Go to next page">Monday, January 20, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

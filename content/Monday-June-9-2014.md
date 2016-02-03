@@ -1,0 +1,58 @@
+---
+layout: default
+title: Monday, May 26, 2014 
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, May 26, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-28" class="node node-book node-full clearfix" about="/content/monday-may-26-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, May 26, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-06-28T23:06:05-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Sat, 06/28/2014 - 23:06</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Meeting Attendees:</em><br>
+                                            * Eli Dart, ESnet<br>
+                                            * Dean Williams, LLNL/PCMDI<br>
+                                            * Sylvia Kuijpers, SURFnet<br>
+                                            * Mary Hester, ESnet
+                                        </p>
+                                        <p><em>Meeting notes: </em><br>
+                                            ESGF version 1.7.1 has Globus integration.  All sites are in the process of getting this up and running, or have done so.
+                                        </p>
+                                        <p>Eli will do some tests of downloads from PCMDI using Globus (INM data sets).</p>
+                                        <p>ICNWG sites need to get perfSONAR tests running between their perfSONAR test hosts.  No need to duplicate tests to the ESnet testers.</p>
+                                        <p>Need to start looking at 10G data transfer nodes at the ICNWG sites.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-june-9-2014" class="page-previous" title="Go to previous page">‹ Monday, June 9, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-april-28-2014" class="page-next" title="Go to next page">Monday, April 28, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-wrapper">
+                            <ul class="links inline">
+                                <li class="comment_forbidden first last"><span><a href="/user/login?destination=node/28%23comment-form">Log in</a> to post comments</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

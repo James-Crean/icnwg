@@ -1,0 +1,83 @@
+---
+layout: default
+title: Monday, August 18, 2014
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, August 18, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-43" class="node node-book node-full clearfix" about="/content/monday-august-18-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, August 18, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-08-18T13:38:14-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Mon, 08/18/2014 - 13:38</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p><em>Attendees:</em><br>
+                                            Dean Williams, LLNL<br>
+                                            Peter Hinrich, SURFnet<br>
+                                            Eli Dart, ESnet<br>
+                                            Ben Evans, NCI<br>
+                                            Mary Hester, ESnet<br>
+                                            Stephan Kindermann, DKRZ<br>
+                                            <br><em>Agenda items:</em><br>
+                                            -data transfer nodes (DTNs)/addresses at sites<br>
+                                            -perfSONAR update<br>
+                                            -report update/status
+                                        </p>
+                                        <p>Some sites already have GridFTP servers up:<br>
+                                            -DKRZ<br>
+                                            -LLNL<br>
+                                            -BADC?
+                                        </p>
+                                        <p>Need to figure out how we are going to track these tests/metrics<br>
+                                            What transfer tools are folks using? Anyone working with Globus?<br>
+                                            Livermore is working on a Globus deployment<br>
+                                            NCI and KNMI may as well<br>
+                                            European sites use iRODS and GridFTP?  Different sites also use bbcp, etc.
+                                        </p>
+                                        <p>ANU can't do transfers to LLNL, but can to DKRZ.  Performance is poor - needs some troubleshooting effort.  Ben will contact Eli separately.</p>
+                                        <p>​Need to get new ANU nodes federated.</p>
+                                        <p>perfSONAR -<br>
+                                            SURFnet, Netherlight perfSONAR host is most of the way there--still adjusting ACLs.  Loss testing seems to be working, though throughput testing is not:<br><a href="http://ps-dashboard.es.net/index.cgi?dashboard=7%3A%20ESnet%20to%20Climate%20Sites">http://ps-dashboard.es.net/index.cgi?dashboard=7%3A%20ESnet%20to%20Clima...</a>
+                                        </p>
+                                        <p>6 mo report update:<br>
+                                            Most of the 5 participating sites have replied. Still waiting on information from KNMI and confirmation/updates from DKRZ.<br>
+                                            LLNL: Need to add recent DTN information<br>
+                                            KNMI: Wim is on vacation so we will have to wait another week or so before we can finalize any content<br>
+                                            DKRZ: Waiting on update on current site report from Gerald (vacation as well)<br>
+                                            NCI: completed site report 
+                                        </p>
+                                        <p>Update to the estimated delivery time for the report to EYR: mid-September</p>
+                                        <p>Need a table with who has DTN nodes and what their estimated time for deployment looks like.</p>
+                                        <p>Proposal milestones: need to adjust these to reflect current achievable timeline</p>
+                                        <p>Next meeting:<br>
+                                            -Discuss Globus infrastructure and best practices<br>
+                                            -Finalize site-specific content for EYR report
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/meeting-notes" class="page-previous" title="Go to previous page">‹ Meeting Notes</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                    <a href="/content/monday-july-21-2014" class="page-next" title="Go to next page">Monday, July 21, 2014 ›</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
