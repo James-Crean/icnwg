@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="next" href="/content/analytics-informatics-and-management-systems-aims-us" />
+<link rel="shortcut icon" href="https://icnwg.llnl.gov/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="up" href="/content/working-group-status-reports" />
+<link rel="shortlink" href="/node/34" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/status-july-2014-six-month-reports" />
+<link rel="prev" href="/content/status-january-2015-annual-reports" />
+  <title>Status as of July 2014 (Six-Month Reports) | International Network Working Group</title>
+  <style type="text/css" media="all">
+@import url("https://icnwg.llnl.gov/modules/system/system.base.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/system/system.menus.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/system/system.messages.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/system/system.theme.css?nxk0a3");
+</style>
+<style type="text/css" media="all">
+@import url("https://icnwg.llnl.gov/modules/aggregator/aggregator.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/book/book.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/comment/comment.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/sites/all/modules/date/date_api/date.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/field/theme/field.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/node/node.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/search/search.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/user/user.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/modules/forum/forum.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/sites/all/modules/views/css/views.css?nxk0a3");
+</style>
+<style type="text/css" media="all">
+@import url("https://icnwg.llnl.gov/sites/all/modules/ctools/css/ctools.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/sites/all/modules/panels/css/panels.css?nxk0a3");
+</style>
+<style type="text/css" media="all">
+@import url("https://icnwg.llnl.gov/themes/bartik/css/layout.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/themes/bartik/css/style.css?nxk0a3");
+@import url("https://icnwg.llnl.gov/sites/default/files/color/bartik-064b8d8d/colors.css?nxk0a3");
+</style>
+<style type="text/css" media="print">
+@import url("https://icnwg.llnl.gov/themes/bartik/css/print.css?nxk0a3");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://icnwg.llnl.gov/themes/bartik/css/ie.css?nxk0a3" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://icnwg.llnl.gov/themes/bartik/css/ie6.css?nxk0a3" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://icnwg.llnl.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://icnwg.llnl.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://icnwg.llnl.gov/misc/drupal.js?nxk0a3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"5vDH8NLTtKbl3X1BmC_DhzHTnqJ-TnEnrcHawJyVqA0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/content\/status-july-2014-six-month-reports?destination=node\/34":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-34 node-type-book" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://icnwg.llnl.gov/sites/default/files/ICNWG-web-banner_9.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>International Network Working Group</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="/">Home</a></li>
+<li class="menu-502"><a href="/content/milestones-and-timeline">Milestones and Timeline</a></li>
+<li class="menu-512"><a href="/content/working-group-status-reports">Current Status</a></li>
+<li class="menu-453"><a href="/content/meeting-notes">Meeting Notes</a></li>
+<li class="menu-362"><a href="/node/5" title="perfSONAR resources">perfSONAR</a></li>
+<li class="menu-363"><a href="/node/6" title="Data Transfer Nodes">Data Transfer Nodes</a></li>
+<li class="menu-529"><a href="/content/about-participating-icnwg-organizations">Participants</a></li>
+<li class="menu-508 last"><a href="/content/network-map">ICNWG Network Map</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/content/working-group-status-reports">Working Group Status Reports</a></div></div>
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-book-navigation" class="block block-book">
+
+    <h2>Notes</h2>
+  
+  <div class="content">
+      <div id="book-block-menu-14" class="book-block-menu">
+    <ul class="menu clearfix"><li class="first last collapsed"><a href="/content/meeting-notes">Meeting Notes</a></li>
+</ul>  </div>
+  <div id="book-block-menu-30" class="book-block-menu">
+    <ul class="menu clearfix"><li class="first last expanded active-trail"><a href="/content/working-group-status-reports" class="active-trail">Working Group Status Reports</a><ul class="menu clearfix"><li class="first leaf"><a href="/content/status-january-2015-annual-reports">Status as of January 2015 (Annual Reports)</a></li>
+<li class="last expanded active-trail"><a href="/content/status-july-2014-six-month-reports" class="active-trail active">Status as of July 2014 (Six-Month Reports)</a><ul class="menu clearfix"><li class="first leaf"><a href="/content/analytics-informatics-and-management-systems-aims-us">Analytics, Informatics, and Management Systems (AIMS), US</a></li>
+<li class="leaf"><a href="/content/centre-environmental-data-archival-ceda-uk">Centre for Environmental Data Archival (CEDA), UK</a></li>
+<li class="leaf"><a href="/content/deutsches-klimarechenzentrum-gmbh-dkrz-de">Deutsches Klimarechenzentrum GmbH (DKRZ), DE</a></li>
+<li class="last leaf"><a href="/content/royal-netherlands-meteorological-institute-knmi-nl">Royal Netherlands Meteorological Institute (KNMI), NL</a></li>
+</ul></li>
+</ul></li>
+</ul>  </div>
+  </div>
+</div>
+<div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first collapsed"><a href="/ctools_ajax_sample">Chaos Tools AJAX Demo</a></li>
+<li class="collapsed"><a href="/forum">Forums</a></li>
+<li class="last leaf"><a href="/tracker">Recent content</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/content/status-july-2014-six-month-reports?destination=node/34" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-C2oGuNu4dQOYj6HmQK_bklVCVa5mQYxU9yS1o2zkha8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Status as of July 2014 (Six-Month Reports)        </h1>
+                          <div class="tabs">
+          <h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li class="active"><a href="/content/status-july-2014-six-month-reports" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/node/34/revisions">Revisions</a></li>
+</ul>        </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-34" class="node node-book node-full clearfix" about="/content/status-july-2014-six-month-reports" typeof="sioc:Item foaf:Document">
+
+      <span property="dc:title" content="Status as of July 2014 (Six-Month Reports)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2014-07-10T09:48:13-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Thu, 07/10/2014 - 09:48</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Overview</em></p>
+<p>Over the last year, Dean Williams and Eli Dart formed the ICNWG under ESGF (see diagram at <a href="https://icnwg.llnl.gov/content/about-participating-icnwg-organizations">https://icnwg.llnl.gov/content/about-participating-icnwg-organizations</a> showing the overlapping institutions and support for the working group). Additionally supported by EYR-Global, this working group creates a forum to support the proposed EYR-Global project and international sites as they troubleshoot performance between the ESGF nodes. In addition, the working group created a website  to make the working group’s progress transparent to all participants.  </p>
+<p>When starting this project, data transfer performance was variable between all sites, between 10KB/sec and 40MB/sec.  In many cases, the software used to transfer the data is wget or similar http-based tools.  ICNWG aims to transition the collaboration to GridFTP for data replication, driven either by data replication scripts built by data center administrators, or by Globus.   The data set to be used for testing replication performance has not been identified, but there are a wide variety of data sets to choose from.  The data sets chosen will be similar to common climate data sets so that the tests provide a realistic approximation of production data replication performance.</p>
+<p>In general, local network, server, and storage infrastructures must be upgraded to accommodate the data transfer performance required for this project. Many sites have made significant progress in these areas and we have enumerated the details of their work in the following sections.</p>
+<p>This project is a huge undertaking, which requires coordination between different countries with different policies, and traversing multiple network domains. To improve network connections from end-to-end, summing to thousands of miles of fiber, and tens of network domains, this group will continue to work to support reliable, long-scale data transfers across the international domains. The ICNWG will continue to test and troubleshoot the network paths to each site, with ESnet’s help, for the duration of the project (up until 2016).</p>
+<p>The first goal for ICNWG was to achieve 500MB/sec (4Gbps) of disk-to-disk throughput during the replication of a multi-terabyte data set, using production infrastructure.  This still has to be completed between all the sites but there is sure progress that the working group sites will reach this goal within the next 6 months. In 2015, ICNWG will increase that performance by a factor of two (to 1GB/sec, 8Gbps) between nodes.  Achieving this capability on production systems will help prepare the global climate science infrastructure for the demands of CMIP6, and set the stage for continued scientific productivity in the critically-important area of climate science.  As a stretch goal, if possible, the group wishes to try for a second doubling of performance of 2GB/sec (16Gbps) between centers in 2016.</p>
+</div></div></div>  <div id="book-navigation-30" class="book-navigation">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/content/analytics-informatics-and-management-systems-aims-us">Analytics, Informatics, and Management Systems (AIMS), US</a></li>
+<li class="leaf"><a href="/content/centre-environmental-data-archival-ceda-uk">Centre for Environmental Data Archival (CEDA), UK</a></li>
+<li class="leaf"><a href="/content/deutsches-klimarechenzentrum-gmbh-dkrz-de">Deutsches Klimarechenzentrum GmbH (DKRZ), DE</a></li>
+<li class="last leaf"><a href="/content/royal-netherlands-meteorological-institute-knmi-nl">Royal Netherlands Meteorological Institute (KNMI), NL</a></li>
+</ul>
+        <div class="page-links clearfix">
+              <a href="/content/status-january-2015-annual-reports" class="page-previous" title="Go to previous page">‹ Status as of January 2015 (Annual Reports)</a>
+                    <a href="/content/working-group-status-reports" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/analytics-informatics-and-management-systems-aims-us" class="page-next" title="Go to next page">Analytics, Informatics, and Management Systems (AIMS), US ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://www.llnl.gov/disclaimer.html">Privacy &amp; Legal Notice</a> * LLNL-WEB-657097</p>
+  </div>
+</div>
+<div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

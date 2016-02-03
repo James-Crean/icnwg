@@ -1,0 +1,62 @@
+---
+layout: default
+title: Monday, January 6, 2014
+group: "meeting note"
+---
+
+<div id="content" class="column">
+    <div class="section">
+        <a id="main-content"></a>
+        <h1 class="title" id="page-title">
+            Monday, January 6, 2014        
+        </h1>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="node-22" class="node node-book node-full clearfix" about="/content/monday-january-6-2014" typeof="sioc:Item foaf:Document">
+                        <span property="dc:title" content="Monday, January 6, 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        <div class="meta submitted">
+                            <span property="dc:date dc:created" content="2014-06-28T22:18:27-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/mchester" typeof="sioc:UserAccount" property="foaf:name" datatype="">mchester</span> on Sat, 06/28/2014 - 22:18</span>    
+                        </div>
+                        <div class="content clearfix">
+                            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                <div class="field-items">
+                                    <div class="field-item even" property="content:encoded">
+                                        <p>Quick Notes from the ICNWG kick off meeting on January 6, 2014:</p>
+                                        <p>We have decided to have larger group meetings every other week. The next group telco is scheduled for January 20th at the same time<br>
+                                            8:00 am Pacific Time<br>
+                                            (925) 424-8105 access code 305757#
+                                        </p>
+                                        <p>Dean will setup a mailing list for the networking group (Please send the names and e-mails of those that need to be added.) Will include Frank Toussaint to the list.<br>
+                                            Dean will setup the network website for the network group. Will connect the web stats from ESGF). We need to work with Sandro and Gavin to get the ESGF stats information for the networking log website.
+                                        </p>
+                                        <p>Network Engineering:<br>
+                                            Every is to set up a perfSONAR host. Ideally have a dedicated Linux machine for this. Eli will help everyone set up for their work environment.<br>
+                                            The time frame to get the perfSONA set up for each site is by March.<br>
+                                            Eli will send out the software instructions and documentation for downloading perfSONAR 
+                                        </p>
+                                        <p>Need to plan ahead for the data infrastructure will look like and making it work for the 4-8 Gbps data movement between sites</p>
+                                        <p>Security and other special issues/problems will be discussion is subgroups and the finding will be brought back to the large team</p>
+                                        <p>Name of the group is: The International Climate Network Working Group (ICNWG)</p>
+                                        <p>Next meeting will be on January 20th at the same time.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="book-navigation-14" class="book-navigation">
+                                <div class="page-links clearfix">
+                                    <a href="/content/monday-january-20-2014" class="page-previous" title="Go to previous page">‹ Monday, January 20, 2014</a>
+                                    <a href="/content/meeting-notes" class="page-up" title="Go to parent page">up</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-wrapper">
+                            <ul class="links inline">
+                                <li class="comment_forbidden first last"><span><a href="/user/login?destination=node/22%23comment-form">Log in</a> to post comments</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
