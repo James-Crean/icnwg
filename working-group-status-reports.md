@@ -12,17 +12,17 @@ title: Working Group Status Reports
         <div class="field field-name-body field-type-text-with-summary field-label-hidden">
             <div class="field-items">
                 <div class="field-item even" property="content:encoded">
-                    <p>The working group tracks its progress annually based on the EYR-Global goals set under <a href="http://icnwg.llnl.gov/content/milestones-and-timeline">the working group's milestones</a>. These goals are based on ESGF's <a href="https://www.enlightenyourresearch.net">Enlighten Your Research Global</a> (EYR-Global) Award received in November 2013.</p>
+                    <p>The working group tracks its progress annually based on the EYR-Global goals set under <a href="{{site.baseurl}}/milestones-and-timeline.html">the working group's milestones</a>. These goals are based on ESGF's <a href="https://www.enlightenyourresearch.net">Enlighten Your Research Global</a> (EYR-Global) Award received in November 2013.</p>
                 </div>
             </div>
         </div>
         <div id="book-navigation-30" class="book-navigation">
             <ul class="menu clearfix">
-                <li class="first leaf"><a href="/content/status-january-2015-annual-reports">Status as of January 2015 (Annual Reports)</a></li>
-                <li class="last collapsed"><a href="/content/status-july-2014-six-month-reports">Status as of July 2014 (Six-Month Reports)</a></li>
+                <li class="first leaf"><a href="{{site.baseurl}}/status-january-2015-annual-reports.html">Status as of January 2015 (Annual Reports)</a></li>
+                <li class="last collapsed"><a href="{{site.baseurl}}/status-july-2014-six-month-reports.html">Status as of July 2014 (Six-Month Reports)</a></li>
             </ul>
             <div class="page-links clearfix">
-                <a href="/content/status-january-2015-annual-reports" class="page-next" title="Go to next page">Status as of January 2015 (Annual Reports) ›</a>
+                <a href="{{site.baseurl}}/status-january-2015-annual-reports.html" class="page-next" title="Go to next page">Status as of January 2015 (Annual Reports) ›</a>
             </div>
         </div>
     </div>

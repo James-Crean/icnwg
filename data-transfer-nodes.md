@@ -21,8 +21,8 @@ weight: 3
                                 <div class="field-items">
                                     <div class="field-item even" property="content:encoded">
                                         <p><a href="http://fasterdata.es.net/science-dmz/DTN/">Data transfer nodes (DTNs)</a> are dedicated, high performing servers used specifically for data transfers. These servers are optimized for large-scale data transfers and are usually best located within a <a href="http://fasterdata.es.net/science-dmz/">Science DMZ</a> infrastructure.</p>
-                                        <p>For DTN hardware, LLNL's Livermore Computing Center has compiled a <a href="https://icnwg.llnl.gov/sites/default/files/LLNL-HardwareRecommendationsforDTNnodes-150129.pdf">document detailing hardware recommendations </a>  that work well for an ESGF environment.</p>
-                                        <p>ICNWG will be working with Globus-equipped DTNs (GridFTP-based software) for data replication between the ESGF sites. LLNL has installed the Globus Connect Server on their DTNs: <a href="https://icnwg.llnl.gov/sites/default/files/GlobusConnectServerInstall-llnl_0.pdf">information on how they configured the systems are available here. </a></p>
+                                        <p>For DTN hardware, LLNL's Livermore Computing Center has compiled a <a href="{{site.baseurl}}/LLNL-HardwareRecommendationsforDTNnodes-150129.pdf">document detailing hardware recommendations </a>  that work well for an ESGF environment.</p>
+                                        <p>ICNWG will be working with Globus-equipped DTNs (GridFTP-based software) for data replication between the ESGF sites. LLNL has installed the Globus Connect Server on their DTNs: <a href="{{site.baseurl}}/GlobusConnectServerInstall-llnl_0.pdf">information on how they configured the systems are available here. </a></p>
                                         <hr>
                                         <p>ESnet has three high-performance data transfer hosts connected directly to the ESnet 100Gbps network backbone, which will help test the transfer performance from disk-to-disk for the Globus DTN endpoints.  These are accessible to any university or science site.</p>
                                         <p>-anl-diskpt1.es.net / anl-diskpt1-v6.es.net: Near Chicago, IL<br>
@@ -88,8 +88,8 @@ weight: 3
                             <div class="field field-name-field-file-attachments field-type-file field-label-above">
                                 <div class="field-label">File Attachments:&nbsp;</div>
                                 <div class="field-items">
-                                    <div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://icnwg.llnl.gov/sites/default/files/LLNL-HardwareRecommendationsforDTNnodes-150129.pdf" type="application/pdf; length=216390">LLNL-HardwareRecommendationsforDTNnodes-150129.pdf</a></span></div>
-                                    <div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://icnwg.llnl.gov/sites/default/files/GlobusConnectServerInstall-llnl_0.pdf" type="application/pdf; length=88134">GlobusConnectServerInstall-llnl.pdf</a></span></div>
+                                    <div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="{{site.baseurl}}/LLNL-HardwareRecommendationsforDTNnodes-150129.pdf" type="application/pdf; length=216390">LLNL-HardwareRecommendationsforDTNnodes-150129.pdf</a></span></div>
+                                    <div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="site.baseurl}}/GlobusConnectServerInstall-llnl_0.pdf" type="application/pdf; length=88134">GlobusConnectServerInstall-llnl.pdf</a></span></div>
                                 </div>
                             </div>
                         </div>
