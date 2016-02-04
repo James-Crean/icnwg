@@ -22,7 +22,7 @@ weight: 5
                         <div class="content clearfix">
                             <div class="field field-name-field-image field-type-image field-label-hidden">
                                 <div class="field-items">
-                                    <div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://icnwg.llnl.gov/sites/default/files/styles/large/public/field/image/Climate-ICNWG-final-03162015.png?itok=AY9-DBNd"><a href="https://icnwg.llnl.gov/sites/default/files/field/image/Climate-ICNWG-final-03162015.png"><img typeof="foaf:Image" src="https://icnwg.llnl.gov/sites/default/files/styles/large/public/field/image/Climate-ICNWG-final-03162015.png?itok=AY9-DBNd" alt="" height="374" width="650"></a></div>
+                                    <div class="field-item even" rel="og:image rdfs:seeAlso" resource="{{site.baseurl}}/Climate-ICNWG-final-03162015.png"><a href="{{site.baseurl}}/Climate-ICNWG-final-03162015.png"><img typeof="foaf:Image" src="{{site.baseurl}}/Climate-ICNWG-final-03162015.png" alt="" height="374" width="650"></a></div>
                                 </div>
                             </div>
                             <div class="field field-name-body field-type-text-with-summary field-label-hidden">

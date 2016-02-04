@@ -1,10 +1,3 @@
-{% assign base = '' %}
-{% assign depth = page.url | split: '/' | size | minus: 1 %}
-{% if    depth == 1 %}{% assign base = '.' %}
-{% elsif depth == 2 %}{% assign base = '..' %}
-{% elsif depth == 3 %}{% assign base = '../..' %}
-{% elsif depth == 4 %}{% assign base = '../../..' %}{% endif %}
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -12,13 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Climate and Forecast Metadata also know as the CF Convention or CF Metadata" />
     <meta name="author" content="{{ site.author }}">
-    <link rel="shortcut icon" href="{{Base}}/Data/media/images/favicon.png">
+    <link rel="shortcut icon" href="{{site.baseurl}}/Data/media/images/favicon.png">
 
     <title>{{ page.title }}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="{{Base}}/Data/media/css/bootstrap.min.css" rel="stylesheet">
-
+    <link id="bootstrap-css" href="{{site.baseurl}}/Data/media/css/bootstrap.min.css" rel="stylesheet"> 
     <!-- Custom styles for this template -->
     <style>
       body {
@@ -38,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="{{Base}}/index.html">ICNWG</a>
+          <a class="brand" href="{{site.baseurl}}/">ICNWG</a>
           <div class="nav-collapse">
             <ul class="nav">
               {% assign pages_list = site.pages | sort:"weight" %}
@@ -59,8 +51,8 @@
     <div class="well sidebar-nav">
         <ul class="nav nav-list">
             <h4>Notes</h4>
-            <li><a href="{{Base}}/content/meeting-notes.html">Meeting Notes</a></li>
-            <li><a href="{{Base}}/content/working-group-status-reports.html">Working Group Status Reports</a></li>
+            <li><a href="{{site.baseurl}}/meeting-notes.html">Meeting Notes</a></li>
+            <li><a href="{{site.baseurl}}/working-group-status-reports.html">Working Group Status Reports</a></li>
         </ul>
     </div>
 </div>
@@ -72,24 +64,15 @@
 </div>
 </div>
 </div>
-
+  {{footer}}
       <hr>
-
-      <footer>
-      <p>
-      <a href="http://github.com/webshootertk">webshootertk</a> &bull;
-      <a href="http://github.com/webshootertk/webshooter">webshooter</a> &bull;
-      <a href="#">Privacy &amp; Legal Notice</a>
-      </p>
-      </footer>
-    </div> <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="{{Base}}/Data/media/js/bootstrap.min.js"></script>
-    <script src="{{Base}}/Data/media/js/links.js"></script>
+    <script src="{{site.baseurl}}/Data/media/js/bootstrap.min.js"></script>
+    <script src="{{site.baseurl}}/Data/media/js/links.js"></script>
   </body>
 </html>
