@@ -27,7 +27,7 @@ title: Meeting Notes
                     <div id="node-14" class="node node-book node-full clearfix" about="/content/meeting-notes" typeof="sioc:Item foaf:Document">
                         <span property="dc:title" content="Meeting Notes" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
                         <div class="content clearfix">
-                            <div id="book-navigation-14" class="book-navigation">
+                            <div id="book-navigation-14">
                                 <ul class="menu clearfix">
                                     <div class="list-groups">
                                         {% for post in site.posts %}
@@ -75,6 +75,9 @@ title: Meeting Notes
     box-sizing: border-box;
     }
     .post-header {
+        display: none;
+    }
+    .book-navigation{
         display: none;
     }
 </style>
