@@ -74,4 +74,7 @@ title: Meeting Notes
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     }
+    .post-header {
+        display: none;
+    }
 </style>
