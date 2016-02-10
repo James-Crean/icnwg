@@ -27,7 +27,7 @@ title: January 2015 Annual Reports
                             <div class="field field-name-field-file-attachments field-type-file field-label-above">
                                 <div class="field-label">File Attachments:&nbsp;</div>
                                 <div class="field-items">
-                                    <div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="{{site.baseurl}}/ICNWG-annual-report.final.pdf" type="application/pdf; length=2100271">ICNWG-annual-report.final.pdf</a></span></div>
+                                    <div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="{{site.baseurl}}/Data/media/images/pdf-icon.png"> <a href="{{site.baseurl}}/ICNWG-annual-report.final.pdf" type="application/pdf; length=2100271">ICNWG-annual-report.final.pdf</a></span></div>
                                 </div>
                             </div>
                         </div>
